@@ -14,8 +14,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 
 | Project                          | Area                     | Description                                                                                              | Libraries                                  | Link                                                                                   |
 |----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------|
-| 🏠 **House Price Prediction**    | Regression Analysis      | Built a multiple regression model to predict house prices based on size, location, and amenities.       | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | [View Project](https://github.com/ahmadzakey/House-price-prediction-Multiple-Regression-) |
-| 🎗️ **Breast Cancer Detection**   | Classification Analysis  | Developed classification models to detect malignant/benign tumors based on medical data.                | Pandas, Matplotlib, Seaborn, Scikit-learn | [View Project](https://github.com/ahmadzakey/Breast-cancer-detection-Classification-analysisis-) |
+| 🏠 **House Price Prediction**    | Regression Analysis      | Built a multiple regression model to predict house prices based on size, location, and amenities.       | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | [View Project](#) |
+| 🎗️ **Breast Cancer Detection**   | Classification Analysis  | Developed classification models to detect malignant/benign tumors based on medical data.                | Pandas, Matplotlib, Seaborn, Scikit-learn | [View Project](#) |
+| 💳 **Credit Card Customer Segmentation** | Clustering Analysis  | Grouped credit card customers based on spending patterns to help financial institutions personalize offers and services. | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn | [View Project](#) |
 
 ---
 
@@ -23,7 +24,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 
 | Project                          | Area                     | Description                                                                                              | Tools                                      | Link                                                                                   |
 |----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------|
-| 🔍 **SQL Detective Project**     | Data Cleaning, Queries   | Solved various SQL challenges by analyzing datasets and creating optimized queries for insights.         | SQLite                                    | [View Project](https://github.com/ahmadzakey/SQL-detective-project)                     |
+| 🔍 **SQL Detective Project**     | Data Cleaning, Queries   | Solved various SQL challenges by analyzing datasets and creating optimized queries for insights.         | SQLite                                    | [View Project](#) |
 
 ---
 
@@ -44,4 +45,4 @@ I am an aspiring **Data Scientist** passionate about uncovering insights from da
 ---
 
 📧 **Email**: [zakey53319@email.com](mailto:zakey53319@email.com)  
-🌐 **GitHub**: [ahmadzakey](https://github.com/ahmadzakey)  
+🌐 **GitHub**: [ahmadzakey](https://github.com/ahmadzakey)
