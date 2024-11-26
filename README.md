@@ -16,7 +16,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 |----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------|
 | 🏠 **House Price Prediction**    | Regression Analysis      | Built a multiple regression model to predict house prices based on size, location, and amenities.       | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | [View Project](#) |
 | 🎗️ **Breast Cancer Detection**   | Classification Analysis  | Developed classification models to detect malignant/benign tumors based on medical data.                | Pandas, Matplotlib, Seaborn, Scikit-learn | [View Project](#) |
-| 💳 **Credit Card Customer Segmentation** | Clustering Analysis  | Grouped credit card customers based on spending patterns to help financial institutions personalize offers and services. | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn | [View Project](#) **_(Ongoing)_** |
+| 💳 **Credit Card Customer Segmentation** | Clustering Analysis  | Grouped credit card customers based on spending patterns to help financial institutions personalize offers and services. | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn | [View Project](https://github.com/ahmadzakey/Customer-Spending-Pattern-Clustering) **_(Ongoing)_** |
 
 ---
 
