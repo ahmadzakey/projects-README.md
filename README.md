@@ -7,6 +7,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 - [Python Projects](#python-projects)  
 - [SQL Projects](#sql-projects)  
 - [Skills and Tools](#skills-and-tools)  
+- [Competitions](#competitions)  
 
 ---
 
@@ -25,6 +26,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 | Project                           | Area                     | Description                                                                                              | Tools                                      | Link                                                                                   |
 |-----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------|
 | 🔍 **SQL Detective Project**      | Data Cleaning, Queries   | Solved various SQL challenges by analyzing datasets and creating optimized queries for insights.         | SQLite                                    | [View Project](#) |
+
+---
+
+## 🏆 Competitions  
+
+| Competition Name                                         | Status      | Link                                                                                             | Description                                                                                               |
+|----------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| 🏠 **House Prices: Advanced Regression Techniques**      | Not Joined  | [Kaggle Link](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)   | A competition focused on predicting house prices using advanced regression techniques.                   |
+| 🚢 **Titanic: Machine Learning from Disaster**          | Not Joined  | [Kaggle Link](https://www.kaggle.com/competitions/titanic)                                        | A beginner-friendly competition where you predict survival on the Titanic using machine learning.          |
 
 ---
 
