@@ -19,6 +19,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 | 🎗️ **Breast Cancer Detection**   | Classification Analysis  | Developed classification models to detect malignant/benign tumors based on medical data.                | Pandas, Matplotlib, Seaborn, Scikit-learn | [View Project](https://github.com/ahmadzakey/Breast-cancer-detection-Classification-analysisis) |
 | 💳 **Credit Card Customer Segmentation** | Clustering Analysis | Grouped credit card customers based on spending patterns to help financial institutions personalize offers and services. | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn | [View Project](https://github.com/ahmadzakey/Customer-Spending-Pattern-Clustering) **_(Ongoing)_** |
 | 📊 **Customer Segmentation Analysis** | Descriptive Analysis     | Analyzed customer spending patterns using descriptive statistics to identify key trends and segments.   | Pandas, NumPy, Matplotlib, Seaborn       | [View Project](https://github.com/ahmadzakey/Customer-Segmentation-Analysis-Descriptive-Analysis-Spending-Patterns-) |
+| 📞 **Data Cleaning & Preprocessing - Customer List** | Data Cleaning & Preprocessing | Cleaned and preprocessed a customer call list dataset to remove duplicates, handle missing values, and ensure data quality. | Pandas, NumPy | [View Project](https://github.com/ahmadzakey/Data-Cleaning-Preprocessing-Customer-list-) |
 
 ---
 
