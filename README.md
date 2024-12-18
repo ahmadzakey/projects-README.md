@@ -1,11 +1,12 @@
 # 🗺 Ahmad Zaki's Portfolio  
-Welcome to my data portfolio! Here, I document a summary of my projects in the fields of **Data Science**, **Machine Learning**, and **Data Analysis**.
+Welcome to my data portfolio! Here, I document a summary of my projects in the fields of **Data Science**, **Machine Learning**, **Data Analysis**, and **Business Intelligence**.
 
 ---
 
 ## 📚 Table of Contents  
 - [Python Projects](#python-projects)  
 - [SQL Projects](#sql-projects)  
+- [Power BI Projects](#power-bi-projects)  
 - [Skills and Tools](#skills-and-tools)  
 - [Competitions](#competitions)  
 
@@ -31,20 +32,28 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 
 ---
 
+## 📊 Power BI Projects  
+
+| Project                           | Area                     | Description                                                                                              | Tools                                      | Link                                                                                   |
+|-----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------|
+| 🏢 **California Sales Dashboard** | Business Intelligence    | Designed an interactive dashboard to analyze California sales data, showcasing trends, performance, and insights. | Power BI, DAX, Power Query                | [View Project](https://github.com/ahmadzakey/Power-bi-California-Sales-) |
+
+---
+
 ## 🏆 Competitions  
 
 | Competition Name                                         | Status      | Link                                                                                             | Description                                                                                               |
 |----------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | 🏠 **House Prices: Advanced Regression Techniques**      | Not Joined  | [Kaggle Link](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)   | A competition focused on predicting house prices using advanced regression techniques.                   |
-| 🚢 **Titanic: Machine Learning from Disaster**          | Not Joined  | [Kaggle Link](https://www.kaggle.com/competitions/titanic)                                        | A beginner-friendly competition where you predict survival on the Titanic using machine learning.          |
+| 🚢 **Titanic: Machine Learning from Disaster**           | Not Joined  | [Kaggle Link](https://www.kaggle.com/competitions/titanic)                                        | A beginner-friendly competition where you predict survival on the Titanic using machine learning.          |
 
 ---
 
 ## 🛠️ Skills and Tools  
 - **Languages**: Python, SQL (SQLite)  
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Tools**: Jupyter Notebook  
-- **Areas of Expertise**: Data Wrangling, Exploratory Data Analysis (EDA), Machine Learning Models (Regression and Classification)  
+- **Tools**: Power BI (DAX, Power Query), Jupyter Notebook  
+- **Areas of Expertise**: Data Wrangling, Exploratory Data Analysis (EDA), Machine Learning Models (Regression and Classification), Business Intelligence Dashboards  
 
 ---
 
@@ -52,9 +61,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 I am an aspiring **Data Scientist** passionate about uncovering insights from data. My expertise lies in:  
 - Building and analyzing **Machine Learning models** for real-world problems.  
 - Performing **SQL-based analysis** to extract meaningful information from databases.  
-- Visualizing complex data trends using Python libraries like Seaborn and Matplotlib.  
+- Creating **interactive dashboards** and visualizations using Power BI to communicate key business insights.  
 
 ---
 
 📧 **Email**: [zakey53319@email.com](mailto:zakey53319@email.com)  
-🌐 **GitHub**: [ahmadzakey](https://github.com/ahmadzakey)
+🌐 **GitHub**: [ahmadzakey](https://github.com/ahmadzakey)  
