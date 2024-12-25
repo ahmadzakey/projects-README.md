@@ -16,13 +16,14 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 
 ### <a id="python-projects"></a>
 
-| Project                           | Area                     | Description                                                                                              | Libraries                                  | Link                                                                                   |
-|-----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------|
-| 🏠 **House Price Prediction**     | Regression Analysis      | Built a multiple regression model to predict house prices based on size, location, and amenities.       | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | [View Project](https://github.com/ahmadzakey/House-price-prediction-Multiple-Regression-) |
-| 🎗️ **Breast Cancer Detection**   | Classification Analysis  | Developed classification models to detect malignant/benign tumors based on medical data.                | Pandas, Matplotlib, Seaborn, Scikit-learn | [View Project](https://github.com/ahmadzakey/Breast-cancer-detection-Classification-analysisis) |
-| 💳 **Credit Card Customer Segmentation** | Clustering Analysis | Grouped credit card customers based on spending patterns to help financial institutions personalize offers and services. | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn | [View Project](https://github.com/ahmadzakey/Customer-Spending-Pattern-Clustering) **_(Ongoing)_** |
-| 📊 **Customer Segmentation Analysis** | Descriptive Analysis     | Analyzed customer spending patterns using descriptive statistics to identify key trends and segments.   | Pandas, NumPy, Matplotlib, Seaborn       | [View Project](https://github.com/ahmadzakey/Customer-Segmentation-Analysis-Descriptive-Analysis-Spending-Patterns-) |
-| 📞 **Data Cleaning & Preprocessing - Customer List** | Data Cleaning & Preprocessing | Cleaned and preprocessed a customer call list dataset to remove duplicates, handle missing values, and ensure data quality. | Pandas, NumPy | [View Project](https://github.com/ahmadzakey/Data-Cleaning-Preprocessing-Customer-list-) |
+| Project                           | Area                     | Description                                                                                              | Libraries                                  | Competition | Link                                                                                   |
+|-----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------|----------------------------------------------------------------------------------------|
+| 🏠 **House Price Prediction**     | Regression Analysis      | Built a multiple regression model to predict house prices based on size, location, and amenities.       | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | No          | [View Project](https://github.com/ahmadzakey/House-price-prediction-Multiple-Regression-) |
+| 🎗️ **Breast Cancer Detection**   | Classification Analysis  | Developed classification models to detect malignant/benign tumors based on medical data.                | Pandas, Matplotlib, Seaborn, Scikit-learn | No          | [View Project](https://github.com/ahmadzakey/Breast-cancer-detection-Classification-analysisis) |
+| 💳 **Credit Card Customer Segmentation** | Clustering Analysis | Grouped credit card customers based on spending patterns to help financial institutions personalize offers and services. | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn | No          | [View Project](https://github.com/ahmadzakey/Customer-Spending-Pattern-Clustering) **_(Ongoing)_** |
+| 📊 **Customer Segmentation Analysis** | Descriptive Analysis     | Analyzed customer spending patterns using descriptive statistics to identify key trends and segments.   | Pandas, NumPy, Matplotlib, Seaborn       | No          | [View Project](https://github.com/ahmadzakey/Customer-Segmentation-Analysis-Descriptive-Analysis-Spending-Patterns-) |
+| 📞 **Data Cleaning & Preprocessing - Customer List** | Data Cleaning & Preprocessing | Cleaned and preprocessed a customer call list dataset to remove duplicates, handle missing values, and ensure data quality. | Pandas, NumPy | No          | [View Project](https://github.com/ahmadzakey/Data-Cleaning-Preprocessing-Customer-list-) |
+| 🚢 **Titanic: Machine Learning from Disaster** | Classification Analysis | Built models to predict passenger survival using KNN and Random Forest. Data visualization via Power BI. | Pandas, Scikit-learn, Matplotlib, Power BI | Yes         | [View Project](https://github.com/ahmadzakey/Titanic-Machine-Learning-from-Disaster) |
 
 ---
 
@@ -30,9 +31,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 
 ### <a id="sql-projects"></a>
 
-| Project                           | Area                     | Description                                                                                              | Tools                                      | Link                                                                                   |
-|-----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------|
-| 🔍 **SQL Detective Project**      | Data Cleaning, Queries   | Solved various SQL challenges by analyzing datasets and creating optimized queries for insights.         | SQLite                                    | [View Project](https://github.com/ahmadzakey/SQL-detective-project) |
+| Project                           | Area                     | Description                                                                                              | Tools                                      | Competition | Link                                                                                   |
+|-----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------|----------------------------------------------------------------------------------------|
+| 🔍 **SQL Detective Project**      | Data Cleaning, Queries   | Solved various SQL challenges by analyzing datasets and creating optimized queries for insights.         | SQLite                                    | No          | [View Project](https://github.com/ahmadzakey/SQL-detective-project) |
 
 ---
 
@@ -40,9 +41,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 
 ### <a id="power-bi-projects"></a>
 
-| Project                           | Area                     | Description                                                                                              | Tools                                      | Link                                                                                   |
-|-----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------|
-| 🏢 **California Sales Dashboard** | Business Intelligence    | Designed an interactive dashboard to analyze California sales data, showcasing trends, performance, and insights. | Power BI, DAX, Power Query                | [View Project](https://github.com/ahmadzakey/Power-bi-California-Sales-) |
+| Project                           | Area                     | Description                                                                                              | Tools                                      | Competition | Link                                                                                   |
+|-----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------|----------------------------------------------------------------------------------------|
+| 🏢 **California Sales Dashboard** | Business Intelligence    | Designed an interactive dashboard to analyze California sales data, showcasing trends, performance, and insights. | Power BI, DAX, Power Query                | No          | [View Project](https://github.com/ahmadzakey/Power-bi-California-Sales-) |
 
 ---
 
@@ -64,7 +65,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 | Competition Name                                         | Status      | Link                                                                                             | Description                                                                                               |
 |----------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | 🏠 **House Prices: Advanced Regression Techniques**      | Not Joined  | [Kaggle Link](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)   | A competition focused on predicting house prices using advanced regression techniques.                   |
-| 🚢 **Titanic: Machine Learning from Disaster**           | Not Joined  | [Kaggle Link](https://www.kaggle.com/competitions/titanic)                                        | A beginner-friendly competition where you predict survival on the Titanic using machine learning.          |
+| 🚢 **Titanic: Machine Learning from Disaster**           | Completed   | [Kaggle Link](https://www.kaggle.com/competitions/titanic)                                        | Predicted survival on the Titanic using machine learning. Models and visualizations were completed.      |
 
 ---
 
@@ -77,4 +78,4 @@ I am an aspiring **Data Scientist** passionate about uncovering insights from da
 ---
 
 📧 **Email**: [zakey53319@email.com](mailto:zakey53319@email.com)  
-🌐 **GitHub**: [ahmadzakey](https://github.com/ahmadzakey)  
+🌐 **GitHub**: [ahmadzakey](https://github.com/ahmadzakey)
