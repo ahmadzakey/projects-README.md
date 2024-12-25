@@ -44,6 +44,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 | Project                           | Area                     | Description                                                                                              | Tools                                      | Competition | Link                                                                                   |
 |-----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------|----------------------------------------------------------------------------------------|
 | 🏢 **California Sales Dashboard** | Business Intelligence    | Designed an interactive dashboard to analyze California sales data, showcasing trends, performance, and insights. | Power BI, DAX, Power Query                | No          | [View Project](https://github.com/ahmadzakey/Power-bi-California-Sales-) |
+| 🚢 **Titanic: Machine Learning from Disaster** | Classification Analysis | Built models to predict passenger survival using KNN and Random Forest. Integrated dashboard in Power BI for visualizing survival rates and patterns. | Power BI, Pandas, Scikit-learn, Matplotlib | Yes         | [View Project](https://github.com/ahmadzakey/Titanic-Machine-Learning-from-Disaster) |
 
 ---
 
