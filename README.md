@@ -34,6 +34,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 | Project                           | Area                     | Description                                                                                              | Tools                                      | Competition | Link                                                                                   |
 |-----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------|----------------------------------------------------------------------------------------|
 | 🔍 **SQL Detective Project**      | Data Cleaning, Queries   | Solved various SQL challenges by analyzing datasets and creating optimized queries for insights.         | SQLite                                    | No          | [View Project](https://github.com/ahmadzakey/SQL-detective-project) |
+| 🗃️ **SQL Database Querying with SQLite3** | Database Querying | Explored complex SQL queries using SQLite3 to manipulate and retrieve data, covering joins, subqueries, and aggregations. | SQLite3                                   | No          | [View Project](https://github.com/ahmadzakey/SQL-Database-Querying-with-SQLite3) |
 
 ---
 
