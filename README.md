@@ -25,6 +25,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 | 📞 **Telco Customer Churn Analysis** | Customer Retention Analysis | Analyzed customer churn for a telco company using machine learning models to identify factors affecting retention rates. | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | No          | [View Project](https://github.com/ahmadzakey/Telco-Customer-Churn-Analysis-Celcom-) |
 | 🚢 **Titanic: Machine Learning from Disaster** | Classification Analysis | Built models to predict passenger survival using KNN and Random Forest. Data visualization via Power BI. | Pandas, Scikit-learn, Matplotlib, Power BI | Yes         | [View Project](https://github.com/ahmadzakey/Titanic-Machine-Learning-from-Disaster) |
 
+| 🏫 **College Clustering Project** | Clustering Analysis | This project applies clustering techniques to a dataset of colleges to identify patterns and group similar institutions. The analysis aims to uncover meaningful clusters that could help in decision-making processes.| Pandas, Scikit-learn, Matplotlib,Scipy, Seaborn | No         | [View Project](https://github.com/ahmadzakey/college-clustering) |
+
 ---
 
 ## 🛢️ SQL Projects  
