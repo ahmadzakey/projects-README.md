@@ -1,5 +1,5 @@
 # 🗺 Ahmad Zaki's Portfolio  
-Welcome to my data portfolio! Here, I document a summary of my projects in the fields of **Data Science**, **Machine Learning**, **Data Analysis**, and **Business Intelligence**.
+Welcome to my data portfolio! Here, I document a summary of my projects in the fields of **Data Science**, **Machine Learning**, **Data Analysis**, **Business Intelligence**, and **Natural Language Processing (NLP)**.
 
 ---
 
@@ -7,6 +7,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 - [Python Projects](#python-projects)  
 - [SQL Projects](#sql-projects)  
 - [Power BI Projects](#power-bi-projects)  
+- [Natural Language Processing (NLP)](#natural-language-processing-nlp)  
 - [Skills and Tools](#skills-and-tools)  
 - [Competitions](#competitions)  
 
@@ -50,14 +51,24 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 
 ---
 
+## 🗣️ Natural Language Processing (NLP)  
+
+### <a id="natural-language-processing-nlp"></a>
+
+| Project                           | Area                     | Description                                                                                              | Libraries                                  | Link                                                                                   |
+|-----------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------|
+| 🎬 **Sentiment Analysis of IMDB Movie Reviews** | Sentiment Analysis | Performed sentiment analysis on IMDB movie reviews using NLP techniques, including text preprocessing and classification models. | Pandas, NLTK, Scikit-learn, Seaborn, Matplotlib | [View Project](https://github.com/ahmadzakey/Sentiment-Analysis-of-IMDB-Movie-Reviews/tree/master) |
+
+---
+
 ## 🛠️ Skills and Tools  
 
 ### <a id="skills-and-tools"></a>
 
 - **Languages**: Python, SQL (SQLite)  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK  
 - **Tools**: Power BI (DAX, Power Query), Jupyter Notebook  
-- **Areas of Expertise**: Data Wrangling, Exploratory Data Analysis (EDA), Machine Learning Models (Regression and Classification), Business Intelligence Dashboards  
+- **Areas of Expertise**: Data Wrangling, Exploratory Data Analysis (EDA), Machine Learning Models (Regression, Classification, Clustering), Natural Language Processing (NLP), Business Intelligence Dashboards  
 
 ---
 
@@ -81,4 +92,4 @@ I am an aspiring **Data Scientist** passionate about uncovering insights from da
 ---
 
 📧 **Email**: [zakey53319@email.com](mailto:zakey53319@email.com)  
-🌐 **GitHub**: [ahmadzakey](https://github.com/ahmadzakey)
+🌐 **GitHub**: [ahmadzakey](https://github.com/ahmadzakey)  
